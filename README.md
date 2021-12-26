@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-	<h3>
+	<h3 style="text-align: center;">
 		Frappe-SDK
 	</h3>
 	<p>
